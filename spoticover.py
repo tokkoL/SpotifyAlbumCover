@@ -1,7 +1,6 @@
 from io import BytesIO
 from PIL import Image
 import spotipy
-import spotipy.util as util
 from spotipy.oauth2 import SpotifyOAuth
 import requests
 import time
